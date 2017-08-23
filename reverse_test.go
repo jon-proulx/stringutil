@@ -1,4 +1,4 @@
-0ckage stringutil
+package stringutil
 
 import "testing"
 
